@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deevanshi</h1>
-<h3 align="center">"A curious mind immersing in the wonders of AI and ML, fueled by the rich tapestry of India's innovation."</h3>
+<h3 align="center">"A curious mind immersing in the wonders of AI and ML, <br>
+  fueled by the rich tapestry of India's innovation."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deevanshi-04&label=Profile%20views&color=0e75b6&style=flat" alt="deevanshi-04" /> </p>
 
