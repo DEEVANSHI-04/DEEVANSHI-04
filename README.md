@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, C++ and OOPS using C++**
 
-- 📫 How to reach me **dkr04.dmn@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
